@@ -1,0 +1,27 @@
+{
+  "name": "udevs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "i18n": "^0.15.1",
+    "next": "14.2.5",
+    "next-i18next": "^15.3.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-i18next": "^15.0.0",
+    "react-router-dom": "^6.24.1",
+    "react-swiper": "^0.1.5",
+    "swiper": "^11.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5"
+  }
+}
